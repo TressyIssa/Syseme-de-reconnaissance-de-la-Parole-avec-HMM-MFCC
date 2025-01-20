@@ -1,7 +1,4 @@
-# Projet de Reconnaissance de la Parole
-
-# Partie 1
-Système de reconnaissance de parole en utilisant coefficients LPC et une reconnaissance basée sur l'algorithme k-NN
+# Partie 1 : Système de reconnaissance de parole en utilisant coefficients LPC et une reconnaissance basée sur l'algorithme k-NN
 
 ## Technologies Utilisées
 - Python 3.9.12
